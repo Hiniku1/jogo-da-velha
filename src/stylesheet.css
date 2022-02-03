@@ -1,0 +1,15 @@
+ul{
+  list-style:none;
+}
+
+ul#inline li {
+  display:inline-flex;
+}
+
+.square {
+    width: 120px;
+    height: 120px;
+    background: rgb(41, 26, 26);
+    margin-left: 50px;
+    margin-top:50px;
+}
